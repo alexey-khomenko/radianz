@@ -45,12 +45,12 @@
 }
 @media (pointer: coarse) {
   .modal-popup.study_request_modal .close:active {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 @media (hover: hover) {
   .modal-popup.study_request_modal .close:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .modal-popup.study_request_modal .body .button {

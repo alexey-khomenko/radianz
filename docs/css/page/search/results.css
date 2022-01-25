@@ -50,11 +50,11 @@
 }
 @media (hover: hover) {
   .search.results .a:hover {
-    border-color: #7C7C81;
+    border-color: #807E7D;
   }
 }
 .search.results .a:active {
-  border-color: #4A4A51;
+  border-color: #4D4C4B;
 }
 .search.results .a .l {
   flex-shrink: 0;
@@ -102,7 +102,7 @@
 }
 @media (hover: hover) {
   .search.results .a:hover .r {
-    color: #313138;
+    color: #333231;
   }
 }
 .search.results .c .title, .search.results .c .subtitle, .search.results .c .text {
@@ -143,7 +143,7 @@
   line-height: 18px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (max-width: 1262.98px) {
   .search.results .c .subtitle {

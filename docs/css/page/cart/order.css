@@ -71,7 +71,7 @@
 .cart.order .position {
   margin-bottom: 10px;
   width: 543px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
@@ -130,15 +130,15 @@
 .cart.order .position-delete {
   display: block;
   margin-left: 5px;
-  color: #313138;
+  color: #333231;
 }
 @media (hover: hover) {
   .cart.order .position-delete:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .cart.order .position-delete:active {
-  color: #636368;
+  color: #666563;
 }
 .cart.order .position-delete svg {
   display: block;
@@ -149,7 +149,7 @@
   margin-bottom: 5px;
 }
 .cart.order .position-collection {
-  color: #7C7C81;
+  color: #807E7D;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 0.14em;
@@ -230,18 +230,18 @@
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (hover: hover) {
   .cart.order .quantity-minus:hover, .cart.order .quantity-plus:hover {
-    color: #313138;
+    color: #333231;
   }
 }
 .cart.order .quantity-minus:active, .cart.order .quantity-plus:active {
   color: #000000;
 }
 .cart.order .quantity-number {
-  color: #27272B;
+  color: #2A2826;
 }
 .cart.order .position-row-4 .r {
   display: flex;
@@ -263,24 +263,24 @@
   display: block;
   position: relative;
   padding-left: 24px;
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   letter-spacing: 0.01em;
   font-size: 13px;
   line-height: 18px;
 }
 .cart.order .r .label::before {
-  border-color: #7C7C81;
+  border-color: #807E7D;
 }
 .cart.order .r .label::after {
   border-color: #DD2929;
 }
 @media (hover: hover) {
   .cart.order .r .label:hover {
-    color: #27272B;
+    color: #2A2826;
   }
   .cart.order .r .label:hover::before {
-    border-color: #27272B;
+    border-color: #2A2826;
   }
   .cart.order .r .label:hover::after {
     border-color: #ED8585;
@@ -301,10 +301,10 @@
   border-width: 2px;
 }
 .cart.order input[type=checkbox]:checked + .label {
-  color: #27272B;
+  color: #2A2826;
 }
 .cart.order input[type=checkbox]:checked + .label::before {
-  border-color: #27272B;
+  border-color: #2A2826;
 }
 .cart.order input[type=checkbox]:checked + .label::after {
   content: "";

@@ -1,7 +1,7 @@
 .study_request .card {
   position: relative;
   z-index: 1;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   padding: 72px 120px;
 }
 @media (max-width: 1422.98px) {
@@ -21,7 +21,7 @@
 }
 .study_request .card .title {
   margin-bottom: 30px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.02em;
   font-size: 30px;
@@ -82,7 +82,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  border-bottom: 1px solid #27272B;
+  border-bottom: 1px solid #2A2826;
   padding-bottom: 10px;
 }
 @media (max-width: 1262.98px) {
@@ -110,7 +110,7 @@
   color: #DD2929;
 }
 .study_request .card .label {
-  color: #7C7C81;
+  color: #807E7D;
   font-size: 14px;
   line-height: 22px;
 }
@@ -140,17 +140,17 @@
 .study_request .card .input::-moz-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .study_request .card .input:-ms-input-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .study_request .card .input::placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .study_request .card .foot {
   display: flex;
@@ -214,7 +214,7 @@
   width: 18px;
   height: 18px;
   border-radius: 2px;
-  border: 2px solid #636368;
+  border: 2px solid #666563;
 }
 .study_request .card .checkbox-label a {
   color: #DD2929;

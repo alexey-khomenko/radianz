@@ -32,7 +32,7 @@
 }
 .cart.info .form-wrapper::before {
   content: "";
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   position: absolute;
   z-index: 0;
   top: 0;
@@ -170,7 +170,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  border-bottom: 1px solid #27272B;
+  border-bottom: 1px solid #2A2826;
   padding-bottom: 10px;
 }
 .cart.info .field:not(:last-child) {
@@ -197,7 +197,7 @@
   color: #26C540;
 }
 .cart.info .label {
-  color: #7C7C81;
+  color: #807E7D;
   font-size: 14px;
   line-height: 22px;
 }
@@ -232,17 +232,17 @@
 .cart.info .input::-moz-placeholder, .cart.info .textarea::-moz-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .cart.info .input:-ms-input-placeholder, .cart.info .textarea:-ms-input-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .cart.info .input::placeholder, .cart.info .textarea::placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #AEAEB1;
+  color: #B2B0AF;
 }
 .cart.info .input {
   height: auto;
@@ -260,7 +260,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  border-bottom: 1px solid #27272B;
+  border-bottom: 1px solid #2A2826;
   padding-bottom: 10px;
 }
 @media (max-width: 1262.98px) {
@@ -365,7 +365,7 @@
   width: 16px;
   height: 16px;
   border-radius: 2px;
-  border: 2px solid #27272B;
+  border: 2px solid #2A2826;
 }
 @media (max-width: 1262.98px) {
   .cart.info .form-agree label::before, .cart.info .checkboxes-body label::before {

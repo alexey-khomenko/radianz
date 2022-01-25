@@ -89,15 +89,15 @@
   }
 }
 .visualisation-3d.bottom .select:not([open]) .select-placeholder {
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (hover: hover) {
   .visualisation-3d.bottom .select:not([open]) .summary:not(.disabled):hover .select-placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
 }
 .visualisation-3d.bottom .select:not([open]) .summary:not(.disabled):active .select-placeholder {
-  color: #27272B;
+  color: #2A2826;
 }
 .visualisation-3d.bottom .select[open] .select-placeholder {
   color: #DD2929;
@@ -135,7 +135,7 @@
   align-items: flex-start;
 }
 .visualisation-3d.bottom .select-title-text {
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;

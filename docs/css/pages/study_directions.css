@@ -8,7 +8,7 @@
 .study_directions .container::before {
   content: "";
   position: absolute;
-  background-color: #313138;
+  background-color: #333231;
   bottom: 0;
   top: -100px;
   right: -130px;
@@ -75,7 +75,7 @@
 }
 .study_directions .h1 .subtitle {
   text-transform: uppercase;
-  color: #AEAEB1;
+  color: #B2B0AF;
   letter-spacing: 0.14em;
   font-size: 13px;
   line-height: 18px;
@@ -96,7 +96,7 @@
   z-index: 1;
   margin: 0 0 40px;
   width: 500px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.02em;
   font-size: 30px;
@@ -122,7 +122,7 @@
   z-index: 1;
   margin: 0 0 36px;
   width: 500px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.02em;
   font-size: 17px;

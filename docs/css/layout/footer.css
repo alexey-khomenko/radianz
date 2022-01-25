@@ -1,5 +1,5 @@
 .footer {
-  background-color: #27272B;
+  background-color: #2A2826;
   font-family: "Proxima Nova", "Jost", sans-serif;
   position: relative;
 }
@@ -11,7 +11,7 @@
   right: 0;
   bottom: 0;
   height: 0;
-  background-color: #313138;
+  background-color: #333231;
 }
 @media (max-width: 1262.98px) {
   .footer:after {

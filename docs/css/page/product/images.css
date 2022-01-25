@@ -27,7 +27,7 @@
   right: 100px;
   z-index: 0;
   width: 612px;
-  background-color: #313138;
+  background-color: #333231;
 }
 @media (max-width: 1422.98px) {
   .product.images::before {
@@ -144,7 +144,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  border: 3px solid #7C7C81;
+  border: 3px solid #807E7D;
 }
 .product.images .img-small:not(.active) img {
   opacity: 0.8;

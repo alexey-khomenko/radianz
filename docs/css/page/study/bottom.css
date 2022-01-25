@@ -1,7 +1,7 @@
 .study--bottom {
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   padding: 36px 0 84px;
-  color: #27272B;
+  color: #2A2826;
   font-family: "Proxima Nova", "Jost", sans-serif;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -83,7 +83,7 @@
 }
 .study--bottom span {
   display: block;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 400;
 }
 .study--bottom strong {
@@ -97,5 +97,5 @@
   left: 0;
   width: 20px;
   height: 20px;
-  color: #27272B;
+  color: #2A2826;
 }

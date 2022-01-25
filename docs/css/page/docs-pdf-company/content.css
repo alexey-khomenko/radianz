@@ -18,7 +18,7 @@
 }
 .docs-pdf-company.content .item {
   margin-bottom: 20px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   padding: 30px 28px;
 }
 @media (max-width: 1262.98px) {
@@ -89,7 +89,7 @@
 .docs-pdf-company.content .btn-pdf {
   height: 42px;
   padding: 2px 15px;
-  color: #313138;
+  color: #333231;
   font-size: 15px;
   line-height: 18px;
 }

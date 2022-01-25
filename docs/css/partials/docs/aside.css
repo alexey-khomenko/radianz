@@ -54,7 +54,7 @@
 .doc.middle .docs.aside::before {
   display: block;
   content: "";
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   position: absolute;
   z-index: 0;
   top: 0;
@@ -149,9 +149,9 @@
 }
 @media (hover: hover) {
   .docs.aside .lvl-1 a:hover, .docs.aside .lvl-2 a:hover {
-    color: #4A4A51;
+    color: #4D4C4B;
   }
 }
 .docs.aside .lvl-1 a:active, .docs.aside .lvl-2 a:active {
-  color: #7C7C81;
+  color: #807E7D;
 }

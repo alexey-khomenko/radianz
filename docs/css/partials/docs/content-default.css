@@ -70,7 +70,7 @@
 .docs-default.content .item {
   margin-bottom: 20px;
   padding: 22px 28px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -103,7 +103,7 @@
 .docs-default.content .to-read, .docs-default.content .to-download {
   height: 42px;
   flex-shrink: 0;
-  color: #313138;
+  color: #333231;
   font-size: 15px;
 }
 @media (max-width: 750.98px) {

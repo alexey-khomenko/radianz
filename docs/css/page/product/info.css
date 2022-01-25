@@ -43,7 +43,7 @@
 .product.info .title-left {
   flex-shrink: 0;
   margin-right: 12px;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (max-width: 1422.98px) {
   .product.info .title-left {
@@ -179,7 +179,7 @@
 }
 .product.info .text {
   margin-bottom: 32px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 400;
   letter-spacing: 0.02em;
   font-size: 15px;
@@ -242,7 +242,7 @@
   }
 }
 .product.info .properties-body div {
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   letter-spacing: 0.02em;
   font-size: 15px;
@@ -280,7 +280,7 @@
   justify-content: space-between;
   align-items: center;
   border-radius: 3px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   font-weight: 400;
   font-size: 17px;
   letter-spacing: 0.02em;
@@ -307,7 +307,7 @@
   padding: 0 0 2px;
   width: 44px;
   line-height: 42px;
-  color: #7C7C81;
+  color: #807E7D;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -351,11 +351,11 @@
 .product.info .quantity-progress::before {
   z-index: 0;
   width: 100%;
-  border-color: #E0E0E1;
+  border-color: #E4E3E1;
 }
 .product.info .quantity-progress .progress-line {
   z-index: 1;
-  border: 2px solid #4A4A51;
+  border: 2px solid #4D4C4B;
 }
 .product.info .progress-point {
   z-index: 3;
@@ -368,7 +368,7 @@
   border-radius: 99999px;
   border: 2px solid #FFFFFF;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
-  background-color: #313138;
+  background-color: #333231;
 }
 .product.info .progress-numbers {
   height: 28px;
@@ -386,7 +386,7 @@
   font-size: 15px;
   line-height: 26px;
   letter-spacing: 0.02em;
-  color: #7C7C81;
+  color: #807E7D;
   text-align: center;
 }
 .product.info .progress-number.active {
@@ -395,7 +395,7 @@
 .product.info .glues {
   margin-bottom: 38px;
   padding: 16px 28px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
 }
 @media (max-width: 1422.98px) {
   .product.info .glues {
@@ -423,7 +423,7 @@
   }
 }
 .product.info .glues-left {
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   letter-spacing: 0.02em;
   font-size: 15px;
@@ -488,7 +488,7 @@
   display: block;
   height: 20px;
   padding-left: 28px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
@@ -517,7 +517,7 @@
   width: 16px;
   height: 16px;
   border-radius: 2px;
-  border: 2px solid #636368;
+  border: 2px solid #666563;
 }
 .product.info .checkbox-input:checked + .checkbox-label::after {
   content: "";
@@ -616,11 +616,11 @@
 }
 @media (hover: hover) {
   .product.info .link:hover {
-    color: #636368;
+    color: #666563;
   }
 }
 .product.info .link:active {
-  color: #4A4A51;
+  color: #4D4C4B;
 }
 .product.info .link span {
   font-weight: 400;

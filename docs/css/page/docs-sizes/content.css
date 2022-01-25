@@ -48,7 +48,7 @@
 }
 .docs-sizes.content .text {
   margin-bottom: 10px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.02em;
   font-size: 17px;
@@ -68,7 +68,7 @@
 }
 .docs-sizes.content .title {
   margin-bottom: 20px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 700;
   letter-spacing: 0.02em;
   font-size: 21px;
@@ -92,10 +92,10 @@
 }
 .docs-sizes.content .table th {
   padding: 0 0 16px;
-  border-bottom: 1px solid #E0E0E1;
+  border-bottom: 1px solid #E4E3E1;
   margin: 0;
   text-align: left;
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   letter-spacing: 0.01em;
   font-size: 13px;

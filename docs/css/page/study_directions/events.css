@@ -17,7 +17,7 @@
   }
 }
 .study_directions .event {
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   padding: 62px 116px 66px 120px;
 }
 @media (max-width: 1262.98px) {
@@ -32,7 +32,7 @@
 }
 .study_directions .event .type {
   margin-bottom: 10px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -70,7 +70,7 @@
 .study_directions .event .name {
   padding-right: 30px;
   width: 580px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 600;
   letter-spacing: 0.02em;
   font-size: 30px;
@@ -104,7 +104,7 @@
 }
 .study_directions .event .t {
   margin-top: 5px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 700;
   letter-spacing: 0.02em;
   font-size: 21px;
@@ -125,7 +125,7 @@
 }
 .study_directions .event .b {
   margin-top: 7px;
-  color: #7C7C81;
+  color: #807E7D;
   font-weight: 400;
   letter-spacing: 0.02em;
   font-size: 15px;
@@ -147,7 +147,7 @@
 .study_directions .event .text {
   margin-bottom: 32px;
   min-height: 104px;
-  color: #27272B;
+  color: #2A2826;
   font-weight: 400;
   letter-spacing: 0.02em;
   font-size: 17px;
@@ -169,7 +169,7 @@
   }
 }
 .study_directions .event .spoiler {
-  border-bottom: 1px solid #E0E0E1;
+  border-bottom: 1px solid #E4E3E1;
   margin-bottom: 40px;
 }
 @media (max-width: 1262.98px) {
@@ -219,7 +219,7 @@
   display: grid;
   grid-gap: 30px 20px;
   grid-template-columns: 220px 1fr;
-  color: #27272B;
+  color: #2A2826;
   letter-spacing: 0.02em;
 }
 @media (max-width: 1262.98px) {

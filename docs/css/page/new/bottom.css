@@ -2,7 +2,7 @@
   font-family: "Proxima Nova", "Jost", sans-serif;
   font-style: normal;
   padding: 90px 0 120px;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
 }
 @media (max-width: 1262.98px) {
   .new.bottom {
@@ -204,7 +204,7 @@
   flex-grow: 1;
 }
 .new.bottom .card:nth-child(1) .type, .new.bottom .card:nth-child(1) .times, .new.bottom .card:nth-child(3) .type, .new.bottom .card:nth-child(3) .times {
-  color: #7C7C81;
+  color: #807E7D;
 }
 .new.bottom .card:nth-child(1) .title, .new.bottom .card:nth-child(3) .title {
   color: #000000;
@@ -218,7 +218,7 @@
   top: 0;
   left: 0;
   height: 50%;
-  background-color: #27272B;
+  background-color: #2A2826;
   padding: 28px 26px 24px;
 }
 @media (max-width: 1422.98px) {
@@ -240,7 +240,7 @@
   flex-grow: 1;
 }
 .new.bottom .card:nth-child(2) .type, .new.bottom .card:nth-child(2) .times {
-  color: #7C7C81;
+  color: #807E7D;
 }
 .new.bottom .card:nth-child(2) .title {
   color: #FFFFFF;

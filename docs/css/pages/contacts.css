@@ -130,9 +130,9 @@
 }
 @media (hover: hover) {
   .contacts .tel_and_email a:hover {
-    color: #636368;
+    color: #666563;
   }
 }
 .contacts .tel_and_email a:active {
-  color: #313138;
+  color: #333231;
 }

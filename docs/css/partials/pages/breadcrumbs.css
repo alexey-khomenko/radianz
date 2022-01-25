@@ -25,7 +25,7 @@
 .breadcrumbs li a {
   font-weight: 400;
   text-decoration: none;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (hover: hover) {
   .breadcrumbs li a:hover {

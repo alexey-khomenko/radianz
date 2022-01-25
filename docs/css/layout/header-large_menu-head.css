@@ -12,10 +12,10 @@
 }
 
 .header-large_menu-logo {
-  width: 116px;
+  width: 114px;
   height: 40px;
   margin-right: auto;
-  color: #C7C7C8;
+  color: #CBC9C7;
 }
 @media (pointer: coarse) {
   .header-large_menu-logo:active {
@@ -26,6 +26,11 @@
   .header-large_menu-logo:hover {
     color: #FFFFFF;
   }
+}
+.header-large_menu-logo svg {
+  margin-top: -12px;
+  width: 114px;
+  height: 52px;
 }
 
 .header-large_menu-lang {
@@ -41,7 +46,7 @@
   font-weight: 600;
   font-size: 17px;
   line-height: 21px;
-  color: #C7C7C8;
+  color: #CBC9C7;
 }
 @media (max-width: 1262.98px) {
   .header-large_menu-lang .link {
@@ -65,7 +70,7 @@
   height: 24px;
   margin-left: 36px;
   background: none;
-  color: #C7C7C8;
+  color: #CBC9C7;
 }
 @media (max-width: 750.98px) {
   .header-large_menu-close {

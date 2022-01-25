@@ -46,11 +46,11 @@
 }
 @media (hover: hover) {
   .modal-popup.application .close:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .modal-popup.application .close:active {
-  color: #7C7C81;
+  color: #807E7D;
 }
 .modal-popup.application .body {
   display: flex;
@@ -99,7 +99,7 @@
   font-weight: normal;
   font-size: 14px;
   line-height: 22px;
-  color: #27272B;
+  color: #2A2826;
 }
 .modal-popup.application .row input, .modal-popup.application .row textarea {
   padding: 0 0 14px;
@@ -123,38 +123,38 @@
 .modal-popup.application .row input::-moz-placeholder, .modal-popup.application .row textarea::-moz-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 .modal-popup.application .row input:-ms-input-placeholder, .modal-popup.application .row textarea:-ms-input-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 .modal-popup.application .row input::placeholder, .modal-popup.application .row textarea::placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (pointer: coarse) {
   .modal-popup.application .row input:active::-moz-placeholder, .modal-popup.application .row textarea:active::-moz-placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
   .modal-popup.application .row input:active:-ms-input-placeholder, .modal-popup.application .row textarea:active:-ms-input-placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
   .modal-popup.application .row input:active::placeholder, .modal-popup.application .row textarea:active::placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
 }
 @media (hover: hover) {
   .modal-popup.application .row input:hover::-moz-placeholder, .modal-popup.application .row textarea:hover::-moz-placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
   .modal-popup.application .row input:hover:-ms-input-placeholder, .modal-popup.application .row textarea:hover:-ms-input-placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
   .modal-popup.application .row input:hover::placeholder, .modal-popup.application .row textarea:hover::placeholder {
-    color: #27272B;
+    color: #2A2826;
   }
 }
 .modal-popup.application .row textarea {
@@ -222,7 +222,7 @@
   width: 18px;
   height: 18px;
   border-radius: 2px;
-  border: 2px solid #636368;
+  border: 2px solid #666563;
 }
 .modal-popup.application .checkbox label {
   position: relative;
@@ -291,7 +291,7 @@
   right: 8px;
   top: 8px;
   display: block;
-  color: #313138;
+  color: #333231;
 }
 .modal-popup.application .select[open] input[readonly] {
   color: #DD2929;
@@ -331,12 +331,12 @@
 }
 @media (pointer: coarse) {
   .modal-popup.application .option:not(.active):active {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 @media (hover: hover) {
   .modal-popup.application .option:not(.active):hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .modal-popup.application .option.active {

@@ -161,10 +161,10 @@
   }
 }
 .glue .table tr:nth-child(even) {
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
 }
 .glue .thead td {
-  color: #7C7C81;
+  color: #807E7D;
 }
 .glue .table td {
   position: relative;

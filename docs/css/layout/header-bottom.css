@@ -25,7 +25,7 @@
   font-weight: 600;
   font-size: 17px;
   line-height: 29px;
-  color: #C7C7C8;
+  color: #2A2826;
   white-space: nowrap;
 }
 .header-bottom nav a:not(:first-child) {
@@ -55,34 +55,30 @@
 }
 @media (hover: hover) {
   .header-bottom nav a:hover {
-    color: #FFFFFF;
+    color: #DD2929;
   }
 }
 .header-bottom nav a:active {
-  color: #FFFFFF;
+  color: #DD2929;
 }
 .header-bottom .logo {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
-  color: #C7C7C8;
+  align-items: flex-start;
+  color: #000000;
 }
 @media (hover: hover) {
   .header-bottom .logo:hover {
-    color: #FFFFFF;
+    color: #DD2929;
   }
 }
 .header-bottom .logo:active {
-  color: #FFFFFF;
-}
-.header-bottom .logo .svg-left {
-  margin-bottom: 2px;
+  color: #DD2929;
 }
 @media (max-width: 1262.98px) {
   .header-bottom .logo .svg-left {
-    width: 60px;
-    margin-right: 35px;
-    margin-bottom: 0;
+    width: 70px;
+    margin-right: 24px;
   }
 }
 @media (max-width: 750.98px) {
@@ -91,8 +87,7 @@
   }
 }
 .header-bottom .logo .svg-right {
-  margin-top: 6px;
-  margin-left: 8px;
+  margin-top: 1px;
 }
 @media (max-width: 1262.98px) {
   .header-bottom .logo .svg-right {

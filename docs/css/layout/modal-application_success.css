@@ -50,12 +50,12 @@
 }
 @media (pointer: coarse) {
   .modal-popup.application_success .close:not(.button):active {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 @media (hover: hover) {
   .modal-popup.application_success .close:not(.button):hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .modal-popup.application_success .body .button {

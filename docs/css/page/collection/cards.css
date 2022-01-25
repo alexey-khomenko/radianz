@@ -37,7 +37,7 @@
 }
 @media (hover: hover) {
   .collection-wrapper .collection_cards .card:hover::before {
-    border-color: #7C7C81;
+    border-color: #807E7D;
   }
 }
 .collection-wrapper .collection_cards .title {
@@ -49,7 +49,7 @@
   left: 50%;
   transform: translateX(-50%);
   background-color: #FFFFFF;
-  color: #27272B;
+  color: #2A2826;
   font-family: "Proxima Nova", "Jost", sans-serif;
   font-style: normal;
   font-weight: 600;

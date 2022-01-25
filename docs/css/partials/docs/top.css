@@ -41,7 +41,7 @@
 .docs.top .h1 {
   padding-right: 42px;
   margin: 18px 0 60px;
-  color: #AEAEB1;
+  color: #B2B0AF;
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -99,8 +99,8 @@
   top: 41px;
   width: 40px;
   height: 40px;
-  background-color: #F8F8F8;
-  color: #27272B;
+  background-color: #FDFBF9;
+  color: #2A2826;
 }
 @media (max-width: 750.98px) {
   .docs.top .btn {
@@ -111,7 +111,7 @@
 }
 @media (hover: hover) {
   .docs.top .btn:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .docs.top .btn:active {

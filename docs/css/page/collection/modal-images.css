@@ -59,7 +59,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  border: 3px solid #7C7C81;
+  border: 3px solid #807E7D;
 }
 .modal-popup.collection_modal .images .img-small:not(.active) {
   cursor: pointer;

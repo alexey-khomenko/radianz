@@ -60,15 +60,15 @@
 .gallery.top .tile a {
   text-decoration: none;
   padding-bottom: 2px;
-  color: #7C7C81;
+  color: #807E7D;
 }
 @media (hover: hover) {
   .gallery.top .tile a:hover {
-    color: #4A4A51;
+    color: #4D4C4B;
   }
 }
 .gallery.top .tile a:active {
-  color: #27272B;
+  color: #2A2826;
 }
 .gallery.top .tile span {
   border-bottom: 2px solid #DD2929;

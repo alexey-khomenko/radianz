@@ -24,7 +24,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #C7C7C8;
+  color: #CBC9C7;
 }
 @media (pointer: coarse) {
   .header-large_menu-foot-top a:active {
@@ -47,7 +47,7 @@
 .header-large_menu-foot-top .svg-left {
   margin-left: 18px;
   width: 86px;
-  height: 40px;
+  height: 30px;
 }
 .header-large_menu-foot-top .svg-right {
   margin-left: 10px;
@@ -73,7 +73,7 @@
   font-size: 15px;
   line-height: 28px;
   letter-spacing: 0.02em;
-  color: #C7C7C8;
+  color: #CBC9C7;
 }
 @media (max-width: 750.98px) {
   .header-large_menu-foot-bottom a {

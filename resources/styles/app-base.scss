@@ -131,15 +131,15 @@ body.body {
 
     @media (hover: hover) {
       &:not(:disabled):hover {
-        background-color: $color-gray-050;
-        border-color: $color-gray-050;
+        background-color: $color-gray-100;
+        border-color: $color-gray-100;
         color: $color-gray-600;
       }
     }
 
     &:not(:disabled):active {
-      background-color: $color-gray-100;
-      border-color: $color-gray-100;
+      background-color: $color-gray-200;
+      border-color: $color-gray-200;
       color: $color-black;
     }
   }

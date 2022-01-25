@@ -39,7 +39,7 @@
   }
 }
 .search.top .h1 .subtitle {
-  color: #AEAEB1;
+  color: #B2B0AF;
   letter-spacing: 0.14em;
   font-size: 13px;
   line-height: 18px;
@@ -68,7 +68,7 @@
   }
 }
 .search.top .form.search input[type=search] {
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
   height: 70px;
   width: 100%;
   padding-left: 20px;
@@ -79,38 +79,38 @@
   font-style: normal;
   font-size: 17px;
   line-height: 22px;
-  color: #27272B;
+  color: #2A2826;
 }
 .search.top .form.search input[type=search]::-moz-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 .search.top .form.search input[type=search]:-ms-input-placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 .search.top .form.search input[type=search]::placeholder {
   opacity: 1;
   font-weight: 400;
-  color: #7C7C81;
+  color: #807E7D;
 }
 .search.top .form.search button {
   position: absolute;
   right: 11px;
   top: 50%;
   transform: translateY(-50%);
-  color: #27272B;
+  color: #2A2826;
   height: 48px;
 }
 @media (hover: hover) {
   .search.top .form.search button:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .search.top .form.search button:active {
-  color: #4A4A51;
+  color: #4D4C4B;
 }
 .search.top .form.search button svg {
   width: 24px;

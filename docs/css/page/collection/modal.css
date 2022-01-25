@@ -50,11 +50,11 @@
 .modal-popup.collection_modal .close {
   flex-shrink: 0;
   margin-left: 4px;
-  color: #E0E0E1;
+  color: #E4E3E1;
 }
 @media (hover: hover) {
   .modal-popup.collection_modal .close:hover {
-    color: #7C7C81;
+    color: #807E7D;
   }
 }
 .modal-popup.collection_modal .close:active {

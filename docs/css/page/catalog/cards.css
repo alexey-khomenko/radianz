@@ -37,11 +37,11 @@
 }
 @media (hover: hover) {
   .catalog-wrapper .catalog_cards .card:hover::before {
-    border-color: #7C7C81;
+    border-color: #807E7D;
   }
 }
 .catalog-wrapper .catalog_cards .card:active::before {
-  border-color: #4A4A51;
+  border-color: #4D4C4B;
 }
 .catalog-wrapper .catalog_cards .title {
   padding: 0 6px;
@@ -50,7 +50,7 @@
   top: 16px;
   left: 16px;
   background-color: #FFFFFF;
-  color: #27272B;
+  color: #2A2826;
   font-family: "Proxima Nova", "Jost", sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -73,11 +73,11 @@
 }
 @media (hover: hover) {
   .catalog-wrapper .catalog_cards .card:hover .title {
-    background-color: #F8F8F8;
+    background-color: #FDFBF9;
   }
 }
 .catalog-wrapper .catalog_cards .card:active .title {
-  background-color: #E0E0E1;
+  background-color: #E4E3E1;
 }
 .catalog-wrapper .catalog_cards .img {
   display: block;

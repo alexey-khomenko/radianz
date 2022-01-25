@@ -7,7 +7,7 @@
   font-style: normal;
   font-size: 30px;
   line-height: 36px;
-  color: #27272B;
+  color: #2A2826;
   letter-spacing: 0.02em;
 }
 @media (max-width: 1262.98px) {
@@ -28,7 +28,7 @@
   font-style: normal;
   font-size: 17px;
   line-height: 32px;
-  color: #27272B;
+  color: #2A2826;
   letter-spacing: 0.02em;
 }
 @media (max-width: 1262.98px) {
@@ -94,7 +94,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  background-color: #F8F8F8;
+  background-color: #FDFBF9;
 }
 @media (max-width: 1422.98px) {
   .search.empty .content {

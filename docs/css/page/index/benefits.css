@@ -6,7 +6,7 @@
   font-size: 48px;
   line-height: 58px;
   letter-spacing: 0.02em;
-  color: #27272B;
+  color: #2A2826;
 }
 @media (max-width: 1262.98px) {
   .index.benefits h2 {
@@ -55,14 +55,14 @@
 }
 @media (hover: hover) {
   .index.benefits .benefits-tabs-head .button.default:hover {
-    background-color: #313138;
-    border-color: #313138;
+    background-color: #333231;
+    border-color: #333231;
     color: #FFFFFF;
   }
 }
 .index.benefits .benefits-tabs-head .button.default:active {
-  background-color: #313138;
-  border-color: #313138;
+  background-color: #333231;
+  border-color: #333231;
   color: #FFFFFF;
 }
 .index.benefits .benefits-tabs-body-wrapper {
@@ -130,7 +130,7 @@
   margin: 62px auto 36px;
   width: 42px;
   height: 42px;
-  color: #27272B;
+  color: #2A2826;
 }
 @media (max-width: 750.98px) {
   .index.benefits .item svg {
@@ -148,7 +148,7 @@
   margin: 0 auto;
   font-family: "Proxima Nova", "Jost", sans-serif;
   font-style: normal;
-  color: #313138;
+  color: #333231;
   text-align: center;
 }
 @media (max-width: 750.98px) {

@@ -14,7 +14,7 @@
 }
 
 .header-large_menu-logo {
-  width: 116px;
+  width: 114px;
   height: 40px;
   margin-right: auto;
   color: $color-gray-200;
@@ -29,6 +29,12 @@
     &:hover {
       color: $color-white;
     }
+  }
+
+  svg {
+    margin-top: -12px;
+    width: 114px;
+    height: 52px;
   }
 }
 
