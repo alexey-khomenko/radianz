@@ -233,5 +233,6 @@
     "/js/page/search/results.js": "/js/page/search/results.js",
     "/js/page/where_to_buy/top.js": "/js/page/where_to_buy/top.js",
     "/js/page/where_to_buy/bottom.js": "/js/page/where_to_buy/bottom.js",
-    "/js/partials/docs/top.js": "/js/partials/docs/top.js"
+    "/js/partials/docs/top.js": "/js/partials/docs/top.js",
+    "/images/content-docs-sizes.png": "/images/content-docs-sizes.png"
 }
