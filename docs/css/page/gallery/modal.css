@@ -4,7 +4,7 @@
   max-height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  background-color: #FFFFFF;
+  background-color: #2A2826;
   padding: 26px;
 }
 @media (max-width: 1262.98px) {
@@ -29,15 +29,15 @@
 }
 .modal-popup.gallery .close {
   flex-shrink: 0;
-  color: #E4E3E1;
+  color: #807E7D;
 }
 @media (hover: hover) {
   .modal-popup.gallery .close:hover {
-    color: #666563;
+    color: #CBC9C7;
   }
 }
 .modal-popup.gallery .close:active {
-  color: #2A2826;
+  color: #FFFFFF;
 }
 @media (max-width: 1262.98px) {
   .modal-popup.gallery .body {
