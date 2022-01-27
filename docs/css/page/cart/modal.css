@@ -5,7 +5,7 @@
   max-height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  background-color: #FFFFFF;
+  background-color: #333231;
   padding: 50px;
 }
 @media (max-width: 1262.98px) {
@@ -37,11 +37,11 @@
   font-size: 30px;
   line-height: 36px;
   letter-spacing: 0.02em;
-  color: #000000;
+  color: #FFFFFF;
 }
 .modal-popup.order_modal .body p {
   margin: 0 0 8px;
-  color: #000000;
+  color: #FFFFFF;
   font-size: 17px;
   line-height: 32px;
 }

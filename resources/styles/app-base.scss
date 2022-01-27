@@ -127,7 +127,7 @@ body.body {
   &.default-inverse {
     background-color: $color-white;
     border-color: $color-white;
-    color: $color-gray-600;
+    color: $color-gray-800;
 
     @media (hover: hover) {
       &:not(:disabled):hover {

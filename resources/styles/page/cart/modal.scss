@@ -7,7 +7,7 @@
   max-height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  background-color: $color-white;
+  background-color: $color-gray-800;
   padding: 50px;
 
   @media (max-width: $media-grid-md) {
@@ -39,13 +39,13 @@
     font-size: 30px;
     line-height: 36px;
     letter-spacing: 0.02em;
-    color: $color-black;
+    color: $color-white;
   }
 
   .body {
     p {
       margin: 0 0 8px;
-      color: $color-black;
+      color: $color-white;
       font-size: 17px;
       line-height: 32px;
 

@@ -127,7 +127,7 @@ body.body.closed {
 .button.default-inverse {
   background-color: #FFFFFF;
   border-color: #FFFFFF;
-  color: #666563;
+  color: #333231;
 }
 @media (hover: hover) {
   .button.default-inverse:not(:disabled):hover {
