@@ -234,5 +234,7 @@
     "/js/page/search/results.js": "/js/page/search/results.js",
     "/js/page/where_to_buy/top.js": "/js/page/where_to_buy/top.js",
     "/js/page/where_to_buy/bottom.js": "/js/page/where_to_buy/bottom.js",
-    "/js/partials/docs/top.js": "/js/partials/docs/top.js"
+    "/js/partials/docs/top.js": "/js/partials/docs/top.js",
+    "/images/content-catalog--1.jpg": "/images/content-catalog--1.jpg",
+    "/images/content-catalog--2.jpg": "/images/content-catalog--2.jpg"
 }
